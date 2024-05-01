@@ -77,4 +77,3 @@ class PingManager: ObservableObject {
         return output
     }
 }
-
